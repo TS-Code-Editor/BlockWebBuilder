@@ -157,7 +157,7 @@ dependencies {
     }
     
     def editorGroupId = "io.github.Rosemoe.sora-editor"
-    implementation platform("$editorGroupId:bom:0.22.0")
+    implementation platform("$editorGroupId:bom:0.22.2")
     implementation "$editorGroupId:editor"
     implementation "$editorGroupId:language-textmate"
     
