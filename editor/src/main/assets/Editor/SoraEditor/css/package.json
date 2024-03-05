@@ -6,7 +6,7 @@
   "publisher": "vscode",
   "license": "MIT",
   "engines": {
-    "vscode": "0.10.x"
+    "vscode": "1.87.x"
   },
   "scripts": {
     "update-grammar": "node ../node_modules/vscode-grammar-updater/bin microsoft/vscode-css grammars/css.cson ./syntaxes/css.tmLanguage.json"
